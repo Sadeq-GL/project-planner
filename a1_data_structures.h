@@ -1,7 +1,5 @@
 /********* a1_data_structures.h ********
 	
-	Student Name 	= sadeq shkab
-	Student Number	= 101285707
 */
 #include <stdbool.h>
 #ifndef A1_DATA_STRUCTURES_H
