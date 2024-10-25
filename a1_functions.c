@@ -1,7 +1,6 @@
 /********* a1_functions.c ********
 	
-	Student Name 	= sadeq shkab
-	Student Number	= 101285707
+
 */
 #include "a1_functions.h"
 #include <stdlib.h>
