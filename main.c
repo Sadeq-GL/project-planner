@@ -1,7 +1,6 @@
 /********* main.c ********
 	
-	Student Name 	= sadeq shkab
-	Student Number	= 101285707
+
 */
 
 //Complete the includes
